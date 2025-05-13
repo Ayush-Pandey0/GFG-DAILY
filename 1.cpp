@@ -34,6 +34,7 @@ int main() {
             arr.push_back(number);
         }
         Solution ob;
+        
         int ans = ob.getSecondLargest(arr);
         cout << ans << endl;
         cout << "~" << endl;
