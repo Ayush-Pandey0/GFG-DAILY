@@ -1,0 +1,15 @@
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Compiled files
+*.class
+*.dll
+*.so
+*.dylib
+
+# IDE specific files
+.vscode/
+.idea/ 
