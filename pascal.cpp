@@ -11,12 +11,12 @@ int combination(int n,int r){
 int main() {
     int line;
     cin>>line;
-    int n;
-    cin >> n;
-    int r;
-    cin >> r;
-    cin.ignore();
-    combination(n,r);
+    // int n;
+    // cin >> n;
+    // int r;
+    // cin >> r;
+    // cin.ignore();
+    // combination(n,r);
     for(int i=0;i<line;i++){
         for(int space = 0; space < line - i - 1; space++) {
             cout << " ";
